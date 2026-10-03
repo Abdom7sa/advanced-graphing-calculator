@@ -10,7 +10,7 @@ Advanced Scientific & Graphing Calculator 🧮📊
   <img src="https://img.shields.io/badge/Plotting-Matplotlib-orange">
   <img src="https://img.shields.io/badge/Numerical%20Computing-NumPy-013243">
   <img src="https://img.shields.io/badge/License-MIT-green">
-</p>---
+</p>
 
 📌 Overview
 
